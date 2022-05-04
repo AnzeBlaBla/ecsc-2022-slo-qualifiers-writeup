@@ -15,4 +15,4 @@ We're presented with a webpage that contains a QR code and an input field. Scann
 
 
 ---
-[Back to home](../main.md)
+[Back to home](../README.md)

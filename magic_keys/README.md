@@ -50,4 +50,4 @@ we can see that we could get the `IV` by XOR-ing the output of the decryption wi
 I coded it up [here](solution.py)
 
 ---
-[Back to home](../main.md)
+[Back to home](../README.md)

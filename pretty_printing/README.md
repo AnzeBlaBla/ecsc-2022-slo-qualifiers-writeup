@@ -14,4 +14,4 @@ If you get a string from the server, please add the `-` to form a valid `UUID`.
 
 
 ---
-[Back to home](../main.md)
+[Back to home](../README.md)
