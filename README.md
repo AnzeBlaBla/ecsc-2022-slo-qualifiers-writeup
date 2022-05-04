@@ -1,8 +1,6 @@
-# <CTF_NAME> CTF
+# ECSC Slovenian Qualifying JUNIOR
 
-Writeups for <CTF_NAME> CTF: [website_name](<http://www.ctflink.com>)
-
-## Categories
+## Challenges
 
 - [ ] [Little Trick](little_trick/writeup.md)
 - [ ] [Magic Keys](magic_keys/writeup.md)
