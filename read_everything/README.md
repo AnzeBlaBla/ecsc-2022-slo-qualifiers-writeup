@@ -19,6 +19,7 @@ The password is not the flag.
 
 ## Solution
 
+This executable asks for the length of a password that we then enter. If we enter something else than a number, it just prints out the flag :/. That's it.
 
 ---
 [Back to home](../README.md)
