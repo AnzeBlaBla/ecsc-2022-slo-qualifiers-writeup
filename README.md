@@ -1,4 +1,4 @@
-# ECSC Slovenian Qualifying JUNIOR
+# ECSC Slovenian Qualifying
 
 ## Challenges
 
